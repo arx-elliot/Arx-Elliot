@@ -1,1 +1,5 @@
 Operating in the digital underworld, I am a Cyber Security Engineer and Red Team Penetration Tester. I wield C++ and Python to infiltrate and dismantle complex network infrastructures. As a professional Kali Linux user, I expertly navigate the shadows for security research. I am the dominator of underworld cyber security, commanding the digital deep with absolute authority. My dominance extends to the gaming arena, where I reign as an aggressive, competitive gamer, bringing relentless precision and tactical ruthlessness to every server I conquer.
+### Connect with me:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arx-elliot)
+- 📘 [Facebook](https://www.facebook.com/share/1DrCZLk5Jo/)
+- 📸 [Instagram](https://www.instagram.com/arx_elliot)
